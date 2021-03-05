@@ -87,4 +87,8 @@ $ sh run.sh
 ```
 
 ## Codes
-- [01-hello-gpu.cu](./Solutions/01-hello-gpu.cu)
+- [01-hello-gpu.cu](./Solutions/01-hello-gpu.cu) : First cuda program
+- [01-first-parallel.cu](./Solutions/01-first-parallel.cu): Parallel kernels example
+- [01-thread-and-block-idx.cu](./Solutions/01-thread-and-block-idx.cu) : learn about block and thread indexing
+- [01-single-block-loop.cu](./Solutions/01-single-block-loop.cu) : Accelerating for loops
+- [02-multi-block-loop.cu](./Solutions/02-multi-block-loop.cu) : Coordinating Parallel threads
